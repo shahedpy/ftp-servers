@@ -1,34 +1,8 @@
 # ftp-servers
-<style>
-  /*color: Indigo*/
-  .alpha-row, .panel-heading {
-    margin-top: 10px;
-    background-color: #3F51B5;
-    color: #E8EAF6;
-    font-size: 20px;
-    text-emphasis: bold;
-    padding: 10px;
-    border-radius: 5px 5px 0px 0px;
-  }
-  .list-div, .panel-body {
-    background-color: #1A237E;
-    padding: 10px;
-    border-radius: 0px 0px 5px 5px;
-  }
-  ul {
-    
-    list-style-type: none;
-  }
-  fieldset{
-    color: white;
-  }
-</style>
-<div class="alpha-row">B</div>
-<div class="list-div">
-  <ul>
-    <li><a href="https://bolmovies.com">Bol Movies</a><!--http://www.join4films.com/--></li>
-  </ul>
-</div>
+
+## B
+- <a href="https://bolmovies.com">Bol Movies</a><!--http://www.join4films.com/-->
+
 <div class="alpha-row">C</div>
 <div class="list-div">
   <ul>
